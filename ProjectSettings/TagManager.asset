@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Damageable
   layers:
   - Default
   - TransparentFX
@@ -13,14 +14,14 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - tile
+  - enemy
+  - ladder
+  - exit
+  - bomb bag
+  - breakable wall
+  - player
+  - health pickup
   - 
   - 
   - 
@@ -40,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3392278673
+    locked: 0
+  - name: Characters
+    uniqueID: 982918147
+    locked: 0
+  - name: Metronome
+    uniqueID: 2033523325
     locked: 0
