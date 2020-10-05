@@ -6,24 +6,11 @@
       "source": "builtin",
       "dependencies": {}
     },
-    "com.unity.animation.rigging": {
-      "version": "0.3.4-preview",
+    "com.unity.2d.tilemap": {
+      "version": "1.0.0",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.burst": "1.2.0-preview.12",
-        "com.unity.test-framework": "1.0.7"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.burst": {
-      "version": "1.2.0-preview.12",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.mathematics": "1.1.0"
-      },
-      "url": "https://packages.unity.com"
+      "source": "builtin",
+      "dependencies": {}
     },
     "com.unity.cinemachine": {
       "version": "2.6.3",
@@ -69,9 +56,9 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-    "com.unity.mathematics": {
-      "version": "1.1.0",
-      "depth": 2,
+    "com.unity.inputsystem": {
+      "version": "1.0.0",
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -81,15 +68,6 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.probuilder": {
-      "version": "4.4.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.settings-manager": "1.0.3"
-      },
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
@@ -114,13 +92,6 @@
     "com.unity.searcher": {
       "version": "4.0.9",
       "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.settings-manager": {
-      "version": "1.0.3",
-      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
